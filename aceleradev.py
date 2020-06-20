@@ -54,7 +54,5 @@ def main():
         st.write(bool((iguais == categoria_2).all()))
 
 
-
-
 if __name__ == '__main__':
     main()
